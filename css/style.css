@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 16em;
+    background-color: black;
+}
+h2{
+    color:purple;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+p{
+    font-family:  Helvetica, sans-serif;
+}
+
+
